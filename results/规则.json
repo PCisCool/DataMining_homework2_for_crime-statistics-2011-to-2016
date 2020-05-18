@@ -1,0 +1,12 @@
+{"X_set": [["Area Id", 3.0]], "Y_set": [["Agency", "OP"]], "sup": 0.35092, "conf": 1.0, "lift": 1.0, "jaccard": 0.35092000000000007}
+{"X_set": [["Area Id", 2.0]], "Y_set": [["Agency", "OP"]], "sup": 0.29154, "conf": 1.0, "lift": 1.0, "jaccard": 0.2915400000000001}
+{"X_set": [["Priority", 2.0]], "Y_set": [["Agency", "OP"]], "sup": 0.81442, "conf": 1.0, "lift": 1.0, "jaccard": 0.81442}
+{"X_set": [["Area Id", 1.0]], "Y_set": [["Agency", "OP"]], "sup": 0.35754, "conf": 1.0, "lift": 1.0, "jaccard": 0.35754}
+{"X_set": [["Priority", 1.0]], "Y_set": [["Agency", "OP"]], "sup": 0.18556, "conf": 1.0, "lift": 1.0, "jaccard": 0.18556}
+{"X_set": [["Area Id", 1.0]], "Y_set": [["Priority", 2.0]], "sup": 0.29566, "conf": 0.82692845555742, "lift": 1.0153587283679428, "jaccard": 0.33739586899463647}
+{"X_set": [["Area Id", 1.0]], "Y_set": [["Priority", 2.0], ["Agency", "OP"]], "sup": 0.29566, "conf": 0.82692845555742, "lift": 1.0153587283679428, "jaccard": 0.33739586899463647}
+{"X_set": [["Area Id", 2.0]], "Y_set": [["Priority", 2.0]], "sup": 0.23974, "conf": 0.8223228373465047, "lift": 1.0097036385974125, "jaccard": 0.2767657177160537}
+{"X_set": [["Area Id", 2.0]], "Y_set": [["Priority", 2.0], ["Agency", "OP"]], "sup": 0.23974, "conf": 0.8223228373465047, "lift": 1.0097036385974125, "jaccard": 0.2767657177160537}
+{"X_set": [["Agency", "OP"]], "Y_set": [["Priority", 2.0]], "sup": 0.81442, "conf": 0.81442, "lift": 1.0, "jaccard": 0.81442}
+{"X_set": [["Area Id", 3.0]], "Y_set": [["Priority", 2.0]], "sup": 0.27902, "conf": 0.7951099965804171, "lift": 0.9762898708042743, "jaccard": 0.3148072930769925}
+{"X_set": [["Area Id", 3.0]], "Y_set": [["Priority", 2.0], ["Agency", "OP"]], "sup": 0.27902, "conf": 0.7951099965804171, "lift": 0.9762898708042743, "jaccard": 0.3148072930769925}
